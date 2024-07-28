@@ -3,6 +3,8 @@ _**Link to dashboard:**_ https://public.tableau.com/views/Book1_17220692332990/S
 
 # Tableau Sales Dashboard Project
 This project is a comprehensive Tableau dashboard that visualizes key business metrics such as total sales, profit, and quantity. The dashboard provides a comparison of data from 2023 against the previous year, 2022, highlighting trends and significant changes.
+
+
 ![CleanShot 2024-07-28 at 19 39 41](https://github.com/user-attachments/assets/8dd6d284-eb74-4427-a263-a4cb0605ae38)
 
 
